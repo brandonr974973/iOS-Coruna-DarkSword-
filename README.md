@@ -914,4 +914,4 @@ iOS 内存损坏漏洞与锁定模式风险必须放在同一套分层安全模�
 
 ---
 
-咨询ios系统请咨询 telegram：@pengqing666
+咨询ios系统请咨询 telegram：https://t.me/one00190
