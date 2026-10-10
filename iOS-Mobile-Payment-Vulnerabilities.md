@@ -341,7 +341,7 @@ Apple Pay 的 Device Account Number 存储在 Secure Element 中，理论上不�
 - **Frida**：运行时测试工具，可用于测试支付 App 的反篡改能力；
 - **Burp Suite / mitmproxy**：网络抓包工具，测试支付通信安全。
 
-�置。
+�置。
 
 ### 误区八：只有 iPhone 有支付风险
 
@@ -499,4 +499,4 @@ iOS 移动支付系统的安全是一个多层次、多维度的问题。Apple �
 
 ---
 
-咨询ios系统请咨询 telegram：@pengqing666
+咨询ios系统请咨询 telegram：https://t.me/one00190
