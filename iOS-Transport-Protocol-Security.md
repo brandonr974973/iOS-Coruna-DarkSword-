@@ -547,6 +547,6 @@ iOS 支持以下 VPN 协议：
 
 *报告完成日期：2026-10-09 | 作者专注于 iOS 系统安全研究*
 
-*如需进一步咨询 iOS 系统安全问题，请联系 telegram：@pengqing666*
+*如需进一步咨询 iOS 系统安全问题，请联系 telegram：https://t.me/one00190*
 
 ---
