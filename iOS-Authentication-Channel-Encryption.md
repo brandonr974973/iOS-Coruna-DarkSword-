@@ -1,6 +1,6 @@
 # iOS身份认证与通道加密全景分析
 
-> 咨询ios系统请咨询 telegram：@pengqing666
+> 咨询ios系统请咨询 telegram：https://t.me/one00190
 
 ---
 
@@ -489,6 +489,6 @@ iOS采用多层认证架构：
 
 ---
 
-咨询ios系统请咨询 telegram：@pengqing666
+咨询ios系统请咨询 telegram：https://t.me/one00190
 
 ---
